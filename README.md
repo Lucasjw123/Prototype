@@ -17,10 +17,9 @@ MongoDB or MySQL for the database
 # Installation
 To run the website on your local machine, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/fgcu-gymnastics-club-website.git
+Clone the repository: git clone https://github.com/Lucasjw123/Prototype
 Install the dependencies: npm install
 Start the server: npm start
-You'll also need to set up a MongoDB database and provide the connection string as an environment variable. See the .env.example file for more information.
 
 # Usage
 Once the server is running, you can access the website at (to be decided) Users can create an account, log in, and track their volunteer hours. Administrators can log in and manage events, volunteer opportunities, and user accounts.
